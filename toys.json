@@ -588,5 +588,15 @@
     "color": "желтый",
     "size": "средний",
     "favorite": false
+  },
+  {
+    num: '60',
+    name: 'Фигурка Голубь',
+    count: '12',
+    year: '1940',
+    shape: 'фигурка',
+    color: 'белый',
+    size: 'средний',
+    favorite: true,
   }
 ]
